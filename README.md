@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MusicDev33&show_icons=true&theme=tokyonight)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MusicDev33&show_icons=true&theme=synthwave)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=synthwave)
 
 <!--
 **MusicDev33/MusicDev33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
