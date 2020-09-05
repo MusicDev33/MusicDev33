@@ -1,4 +1,12 @@
-### Hi there 👋
+### Shelby McCowan
+
+Hello and welcome to my GitHub! I'm just a dude that does stuff. Here are the languages and technologies I currently use:
+
+- JavaScript/TypeScript
+- Angular
+- MongoDB
+- NodeJS
+- Docker
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MusicDev33&show_icons=true&theme=synthwave)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=synthwave)
