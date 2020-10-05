@@ -4,6 +4,7 @@ Hello and welcome to my GitHub! I'm just a dude that does stuff. Here are the la
 
 - JavaScript/TypeScript
 - Angular
+- ReactJS
 - MongoDB
 - NodeJS
 - Docker
