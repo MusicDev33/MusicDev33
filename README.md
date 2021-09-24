@@ -8,6 +8,14 @@ Hello and welcome to my GitHub! I'm just a dude that does stuff. Here are the la
 - MongoDB
 - NodeJS
 - Docker
+- Swift
+
+And here are technologies I've either got my eye on or am currently learning:
+
+- Rust (learning)
+- SvelteJS
+- VueJS
+- Kubernetes
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MusicDev33&show_icons=true&theme=synthwave)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=synthwave)
