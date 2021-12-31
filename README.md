@@ -17,6 +17,9 @@ And here are technologies I've either got my eye on or am currently learning:
 - VueJS
 - Kubernetes
 
+<a href="https://app.daily.dev/MusicDev"><img src="https://api.daily.dev/devcards/e2b46b2d40844aa48ee22bf3e37fd39b.png?r=cr7" width="400" alt="Shelby McCowan's Dev Card"/></a>
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MusicDev33&show_icons=true&theme=synthwave)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=synthwave)
 
