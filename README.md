@@ -13,6 +13,7 @@ Hello and welcome to my GitHub! I'm just a dude that does stuff. Here are the la
 And here are technologies I've either got my eye on or am currently learning:
 
 - Rust (learning)
+- Go (learning)
 - SvelteJS
 - VueJS
 - Kubernetes
