@@ -1,18 +1,19 @@
 ### Shelby McCowan
 
-Hello and welcome to my GitHub! I'm just a dude that does stuff. Here are the languages and technologies I currently use:
+Hello and welcome to my GitHub! I'm just a dude that got started with game programming over a decade ago. I've built games, I've built mobile apps, I've built countless backends, I've built websites, and I currently do ops stuff (mostly Python, Terraform, and Docker). 
 
-- JavaScript/TypeScript
+I currently use the following day to day:
+- Terraform
 - Python
-- Go
-- ReactJS
-- MongoDB
-- NodeJS
 - Docker
 
-And here are technologies I've either got my eye on or am currently learning:
+I've used the following languages and technologies in the past or currently on the side. The top is what I have the most experience in:
+- JavaScript/TypeScript
+- Angular
+- React and NextJS
+- Go
+- Swift
+- Java/LibGDX
+- C#/Unity
 
-- Rust (learning)
-- Kubernetes
-
-<a href="https://app.daily.dev/MusicDev"><img src="https://api.daily.dev/devcards/e2b46b2d40844aa48ee22bf3e37fd39b.png?r=cr7" width="400" alt="Shelby McCowan's Dev Card"/></a>
+My focus is on DevOps and (soon to be) hardware
