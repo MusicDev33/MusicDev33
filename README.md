@@ -13,7 +13,7 @@ I've used the following languages and technologies in the past or currently on t
 - React and NextJS
 - Go
 - Swift
-- Java/LibGDX
-- C#/Unity
 
-My focus is on DevOps and (soon to be) hardware
+I also used to do game dev! I've used Java (libGDX) and C# (Unity)!
+
+My focus is on DevOps and one day I'd like to end up doing hardware programming.
